@@ -9,7 +9,8 @@ Este é um projeto de conversor de moedas, o objetivo principal é permitir a co
 
 ## 🔗 Layout
 
-![Alt text](image.png)
+![Imagem](./imagens/Imagem.Layout.png)
+
 
 ## 💻 Tecnologia utilizadas
 
@@ -34,3 +35,5 @@ git clone https://github.com/Rayane-Souza/ProjetoConversor.git
 Rayane Souza
 
 <a href="https://www.linkedin.com/in/rayanekelly/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+
+[def]: image.png
